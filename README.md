@@ -1,2 +1,2 @@
-# mightygrep-issues
-Public repository for tracking issues in MightyGrep
+# mightygrep-misc
+Public repository for miscellaneous MightyGrep files
