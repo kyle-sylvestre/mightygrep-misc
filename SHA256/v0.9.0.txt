@@ -1,0 +1,71 @@
+mightygrep-windows-v0.9.0.zip 
+
+Path                        Hash                                                            
+----                        ----                                                            
+.\changelog.txt             A207B9AD88ADED56DC5695505EE485FA2096EB2684C222AD94C3B7044178C675
+.\license.txt               81503BAFEC6EA653DEB78635ED36D6BC54AA5E4445425B10A79A5FC7566AFC40
+.\mightygrep_installer.exe  E7740445A05C32D5268A9533061EDABB59FCF6513FFA19FD93F6890BA1580260
+.\regex_syntax.txt          C0E80F975A5D95C24C0E377B3EC2A675D16AEC9E9147259FBD2321345BE9D78E
+.\ARM64 Dist\MightyGrep.exe BC188C21EFFAF8108CCC3F9473051F941AF19B2B98CCB6A2A5EA90FB8295E3E4
+.\x64 Dist\MightyGrep.exe   959C02594F528CEA06D8DDAC0D8AFE4BFC1A6584E51B0103FA02991F6D4BD774
+.\x86 Dist\MightyGrep.exe   BB8FB26A81CD99878B4A746437ACC71F301C659FCBEB8EB0DEF7A3E7B5D002D0
+
+
+ 
+ 
+mightygrep-linux-v0.9.0.tar.gz 
+
+Path                                          Hash                                                            
+----                                          ----                                                            
+.\changelog.txt                               2B6BB4EF05A7E3261D8314369297699436B8D6C133BC24C186E2BA16F7D65AA3
+.\license.txt                                 8190CF0CD536484EFB46551AADD51F9968BF3128818E1CD9805E6AECFEF2A8B3
+.\regex_syntax.txt                            7FDD05CEABFCD97A69DE263F23B2310864A7994FFE25842C5CAA2E43E0E515D8
+.\aarch64\mightygrep                          09B7590E8A8B8CC286AB8EF31EC6C6A2B2EF14987220C57BE5AAF3D9A747428B
+.\aarch64\mightygrep-0.9.0-1.aarch64.rpm      A36DDE8274DFB404B395C157EE96F07BB6BEC301560CB07DB4374CD53BD25C13
+.\aarch64\mightygrep_0.9.0-1_arm64.deb        BF6CC482754B887A432715416E14923AAAC2431FB4DE3ABACD313D7B234FA7A1
+.\i386\mightygrep                             5973A9CF1ACA782046D93538D656BDBEBAF1CE56810B289D7FDC1FCD891974A8
+.\i386\mightygrep-0.9.0-1.i386.rpm            405A6377C8C30E9AE8334B24104F0021FBA7EE3797D8FB5A0E5255D12805433C
+.\i386\mightygrep_0.9.0-1_i386.deb            E0222E9755B232292B0CAE45F79FD1411E59254658C2596CEC7B0CE0660A81BB
+.\x86_64\mightygrep                           01AC619A92029896C9E8DB971799B12E76D7DD8E7DC174A7B865BB1D91FB207B
+.\x86_64\mightygrep-0.9.0-1-x86_64.pkg.tar.xz 787FDB7AFE11FDEAC8E08D74AB1265D12999DF816A2CC9F1BB96A9CABD57341E
+.\x86_64\mightygrep-0.9.0-1.x86_64.rpm        E374BFA79977FD60DCDCC317328F2517C272992075544EDBB11ECCCC0982C1F7
+.\x86_64\mightygrep_0.9.0-1_amd64.deb         FD57070ACCE78D958A9DE15C83F4C069322718BC322B20DA49A17ACB1DFCAE44
+
+
+ 
+ 
+mightygrep-macOS-v0.9.0.dmg 
+
+Path                                                   Hash                                                            
+----                                                   ----                                                            
+.\MightyGrep.app\Contents\Info.plist                   81E5ECBF7C6A209D4E831629056168E5853104C67CB0517DC58E231134274758
+.\MightyGrep.app\Contents\MacOS\mightygrep             AC4ADE5A3B044C1BEB120EC65852909734083E1CF16C14A5854BB882B2C1ECC5
+.\MightyGrep.app\Contents\Resources\AppIcon.icns       2D8445F2A6012621CD936BAD22D8F9B4E65BDDCA76385264906F58985372C4D2
+.\MightyGrep.app\Contents\Resources\changelog.txt      2B6BB4EF05A7E3261D8314369297699436B8D6C133BC24C186E2BA16F7D65AA3
+.\MightyGrep.app\Contents\Resources\license.txt        8190CF0CD536484EFB46551AADD51F9968BF3128818E1CD9805E6AECFEF2A8B3
+.\MightyGrep.app\Contents\Resources\regex_syntax.txt   7FDD05CEABFCD97A69DE263F23B2310864A7994FFE25842C5CAA2E43E0E515D8
+.\MightyGrep.app\Contents\_CodeSignature\CodeResources 6FFE094D4684A51AB98663213B694E4EF373360045EF7FA7413E7D5A7A7E1F2F
+
+
+ 
+ 
+Distributables 
+
+Path                             Hash                                                            
+----                             ----                                                            
+.\mightygrep-macOS-v0.9.0.dmg    42D936438160ECA213A0CD1809BDBC36EE301632AF3A5B32FA294CBB66EC8B2B
+.\mightygrep-linux-v0.9.0.tar.gz 4A266FAF66BE022477C33E7CC25058A6A2B64C11DD475B6CFC071A35BD909CF0
+.\mightygrep-windows-v0.9.0.zip  04F95945C4494018286CD6B6E89EE8718F86EB063B4093E76B9FCC5CAC347E6A
+
+
+ 
+ 
+Demos 
+
+Path                    Hash                                                            
+----                    ----                                                            
+.\demo\mightygrep-linux 9EB6016381D4E37B5416B8B5A6A0F19A0EFF329E8039E0ACF4B230141BF187C4
+.\demo\mightygrep-macos 1CC6593AF998F13930248508841BCE6A8EB19B08C03F53DC5388897E81B8AEDE
+.\demo\MightyGrep.exe   A500A4C552FFEB0B2817E8E53DCEC8A0F10937E12268451516A3119C2FDCD672
+
+
