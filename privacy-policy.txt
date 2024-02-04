@@ -1,0 +1,29 @@
+
+Privacy Policy for MightyGrep
+
+Effective Date: February 3rd, 2023
+
+MightyGrep, developed by Kyle Sylvestre, is committed to maintaining the privacy and security of your information. This Privacy Policy outlines our practices regarding the collection, use, and disclosure of information when you use MightyGrep, a file search application.
+
+Information We Do Not Collect:
+MightyGrep does not store or share personally identifiable information (PII). While the application may access data on your device during the search process, it does not store or transmit any personal data, including names, addresses, phone numbers, or any other sensitive information. The access is strictly limited to the local search operation on your device and is not used for any other purpose.
+
+Data Collection and Usage:
+MightyGrep operates solely on your device and searches for files locally without sending any data to external servers. The application may store search history and preferences locally on your device for a better user experience, but this data is not shared or transmitted.
+
+Cookies and Tracking:
+MightyGrep does not use cookies or any form of tracking technology. We respect your privacy, and our application is designed to operate without the need for such mechanisms.
+
+Third-Party Services:
+MightyGrep does not integrate with any third-party services that collect or process personal information. Your data stays within the confines of the application on your device.
+
+Changes to the Privacy Policy:
+We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. We encourage you to review this policy periodically.
+
+Contact Information:
+For any questions or concerns regarding this Privacy Policy or MightyGrep's privacy practices, please contact Kyle Sylvestre at sunbound.software@gmail.com.
+
+By using MightyGrep, you agree to the terms outlined in this Privacy Policy. Thank you for trusting us with your privacy.
+
+Kyle Sylvestre
+Developer of MightyGrep
