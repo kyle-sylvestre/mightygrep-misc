@@ -115,9 +115,9 @@
       <Keywords>Download</Keywords>
       <Char_Desc_45>Fast plaintext search utility</Char_Desc_45>
       <Char_Desc_80>Fast plaintext search utility</Char_Desc_80>
-      <Char_Desc_250>Fast plaintext search utility</Char_Desc_250>
-      <Char_Desc_450>Fast plaintext search utility</Char_Desc_450>
-      <Char_Desc_2000>Fast plaintext search utility</Char_Desc_2000>
+      <Char_Desc_250>Fast plaintext search utility. Search for patterns using either keywords or regex. Export found results to the clipboard or a text file.</Char_Desc_250>
+      <Char_Desc_450>Fast plaintext search utility. Search for patterns using either keywords or regex. Export found results to the clipboard or a text file.</Char_Desc_450>
+      <Char_Desc_2000>Fast plaintext search utility. Search for patterns using either keywords or regex. Export found results to the clipboard or a text file.</Char_Desc_2000>
     </English>
   </Program_Descriptions>
   <Permissions>
