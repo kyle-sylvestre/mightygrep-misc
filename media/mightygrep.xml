@@ -1,68 +1,184 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
-<PAD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:noNamespaceSchemaLocation="http://www.padxml.com/pad/v4_0/pad_schema_v4_0.xsd"
-     version="4.0">
-
-    <Program_Info>
-        <Program_Name>MightyGrep</Program_Name>
-        <Program_Version>0.14.0</Program_Version>
-        <Program_Release_Month>08</Program_Release_Month>
-        <Program_Release_Day>02</Program_Release_Day>
-        <Program_Release_Year>2024</Program_Release_Year>
-        <Program_Cost_Dollars>9.99</Program_Cost_Dollars>
-        <Program_Type>Premium</Program_Type>
-        <Program_Category_Class>Utilities</Program_Category_Class>
-        <Program_Category_Subclass>File Management</Program_Category_Subclass>
-        <Program_OS_Support>Windows, macOS, Linux</Program_OS_Support>
-        <Program_Language>English</Program_Language>
-        <Program_Requirements>None</Program_Requirements>
-        <File_Info>
-          <File_Size_Bytes>1895936</File_Size_Bytes>
-        </File_Info>
-    </Program_Info>
-
-    <Program_Description>
-        <Description_2000>Fast plaintext search utility</Description_2000>
-        <Description_450>Fast plaintext search utility</Description_450>
-        <Description_250>Fast plaintext search utility</Description_250>
-        <Description_80>Fast plaintext search utility</Description_80>
-    </Program_Description>
-
-    <Publisher_Info>
-        <Company_Name></Company_Name>
-        <Address_1></Address_1>
-        <Address_2></Address_2>
-        <City></City>
-        <State></State>
-        <Zip></Zip>
-        <Country></Country>
-
-        <Support_Email>sunbound.software@gmail.com</Support_Email>
-        <Sales_Email>sunbound.software@gmail.com</Sales_Email>
-        <General_Email>sunbound.software@gmail.com</General_Email>
-
-        <Support_URL>https://ksylvestre.itch.io/mightygrep</Support_URL>
-        <Sales_URL>https://ksylvestre.itch.io/mightygrep</Sales_URL>
-        <General_URL>https://ksylvestre.itch.io/mightygrep</General_URL>
-    </Publisher_Info>
-
-    <Program_Links>
-        <Application_URLs>
-            <Primary_Download_URL>https://ksylvestre.itch.io/mightygrep</Primary_Download_URL>
-            <Secondary_Download_URL></Secondary_Download_URL>
-        </Application_URLs>
-        <PAD_Info_URL></PAD_Info_URL>
-        <Program_Icon_URL>https://raw.githubusercontent.com/kyle-sylvestre/mightygrep-misc/24d948094723c5ae7b6e51a2fafff97cd81d71af/media/mighty_grep_icon.png</Program_Icon_URL>
-        <Screenshot_URLs>
-            <Screenshot_URL>https://raw.githubusercontent.com/kyle-sylvestre/mightygrep-misc/24d948094723c5ae7b6e51a2fafff97cd81d71af/media/screenshot_1.png</Screenshot_URL>
-            <Screenshot_URL>https://raw.githubusercontent.com/kyle-sylvestre/mightygrep-misc/24d948094723c5ae7b6e51a2fafff97cd81d71af/media/screenshot_2.png</Screenshot_URL>
-            <Screenshot_URL>https://raw.githubusercontent.com/kyle-sylvestre/mightygrep-misc/24d948094723c5ae7b6e51a2fafff97cd81d71af/media/screenshot_3.gif</Screenshot_URL>
-        </Screenshot_URLs>
-    </Program_Links>
-
-    <Permissions>
-        <Distribution_Permissions>Free to distribute demo</Distribution_Permissions>
-        <EULA></EULA>
-    </Permissions>
-
-</PAD>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>AppVisor 1.0.43</MASTER_PAD_EDITOR>
+    <MASTER_PAD_EDITOR_URL>https://publisher.appvisor.com</MASTER_PAD_EDITOR_URL>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD(TM) 2004 Association of Software Professionals (ASP)http://www.asp-shareware.org/pad is a data set standard and specification that is commercialsoftware publishers to disseminate certified information about their software application. The PAD format is copyright of the ASP and cannot be used without the formal licensing and permission of both the Association of Software Professionals and its agent AppVisor.com.</MASTER_PAD_INFO>
+    <CERTIFIED>No</CERTIFIED>
+    <CERTIFICATE_ID></CERTIFICATE_ID>
+    <CERTIFICATE_LICENSE></CERTIFICATE_LICENSE>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name></Company_Name>
+    <Country></Country>
+    <State_Province></State_Province>
+    <City_Town></City_Town>
+    <Zip_Postal_Code></Zip_Postal_Code>
+    <Address_1></Address_1>
+    <Address_2></Address_2>
+    <Company_WebSite_URL>https://ksylvestre.itch.io</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name></Contact_First_Name>
+      <Contact_Last_Name></Contact_Last_Name>
+      <Contact_Email>sunbound.software@gmail.com</Contact_Email>
+      <Author_First_Name></Author_First_Name>
+      <Author_Last_Name></Author_Last_Name>
+      <Author_Email>sunbound.software@gmail.com</Author_Email>
+      <Contact_Phone></Contact_Phone>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>sunbound.software@gmail.com</Sales_Email>
+      <Support_Email>sunbound.software@gmail.com</Support_Email>
+      <General_Email>sunbound.software@gmail.com</General_Email>
+      <Sales_Phone></Sales_Phone>
+      <Support_Phone></Support_Phone>
+      <General_Phone></General_Phone>
+      <Fax_Phone></Fax_Phone>
+    </Support_Info>
+    <LinkedinPage></LinkedinPage>
+    <TwitterCompanyPage></TwitterCompanyPage>
+    <FacebookCompanyPage></FacebookCompanyPage>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>MightyGrep</Program_Name>
+    <Program_Version>0.14.0</Program_Version>
+    <Program_Release_Month>8</Program_Release_Month>
+    <Program_Release_Day>2</Program_Release_Day>
+    <Program_Release_Year>2024</Program_Release_Year>
+    <Program_Cost_Dollars>9.99</Program_Cost_Dollars>
+    <Program_Type>Premium</Program_Type>
+    <Program_Category_Class></Program_Category_Class>
+    <Program_Specific_Category></Program_Specific_Category>
+    <Program_Categories></Program_Categories>
+    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Install_Support>Install Support</Program_Install_Support>
+    <Program_Target_Platform>Windows</Program_Target_Platform>
+    <Program_OS_Support>Win7 x64,Windows 8,Windows 10,WinServer,Windows Server 2008,Windows Server 2008r2,Windows Server 2012,Windows Tablet PC Edition 2005,Windows Media Center Edition 2005,WinVista,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate,WinVista x64,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64,Windows Vista Ultimate x64</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Change_Info></Program_Change_Info>
+    <Program_System_Requirements></Program_System_Requirements>
+    <Limitations></Limitations>
+    <Awards></Awards>
+    <File_Info>
+      <File_Size_Bytes>1895936</File_Size_Bytes>
+      <File_Size_K>1851.5</File_Size_K>
+      <File_Size_MB>1.8</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+      <Expire_Count></Expire_Count>
+      <Expire_Based_On></Expire_Based_On>
+      <Expire_Year></Expire_Year>
+      <Expire_Other_Info></Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+    </Expire_Info>
+    <Includes_JAVA_VM></Includes_JAVA_VM>
+    <Includes_DirectX></Includes_DirectX>
+    <Includes_VB_Runtime></Includes_VB_Runtime>
+  </Program_Info>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://ksylvestre.itch.io</Application_Info_URL>
+      <Application_Order_URL></Application_Order_URL>
+      <Application_Screenshot_URL>https://raw.githubusercontent.com/kyle-sylvestre/mightygrep-misc/24d948094723c5ae7b6e51a2fafff97cd81d71af/media/screenshot_1.png</Application_Screenshot_URL>
+      <Application_Icon_URL>https://raw.githubusercontent.com/kyle-sylvestre/mightygrep-misc/24d948094723c5ae7b6e51a2fafff97cd81d71af/media/mighty_grep_icon.png</Application_Icon_URL>
+      <Application_XML_File_URL>https://raw.githubusercontent.com/kyle-sylvestre/mightygrep-misc/refs/heads/main/media/mightygrep.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://ksylvestre.itch.io/mightygrep</Primary_Download_URL>
+      <Secondary_Download_URL>https://ksylvestre.itch.io/mightygrep</Secondary_Download_URL>
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>Search</Keywords>
+      <Char_Desc_45>Fast plaintext search utility</Char_Desc_45>
+      <Char_Desc_80>Fast plaintext search utility</Char_Desc_80>
+      <Char_Desc_250>Fast plaintext search utility</Char_Desc_250>
+      <Char_Desc_450>Fast plaintext search utility</Char_Desc_450>
+      <Char_Desc_2000>Fast plaintext search utility</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+  <Permissions>
+    <Distribution_Permissions></Distribution_Permissions>
+    <EULA></EULA>
+  </Permissions>
+  <Affiliates>
+    <Affiliates_Regsoft_Order_Page></Affiliates_Regsoft_Order_Page>
+    <Affiliates_Regsoft_Vendor_ID></Affiliates_Regsoft_Vendor_ID>
+    <Affiliates_Regsoft_Product_ID></Affiliates_Regsoft_Product_ID>
+    <Affiliates_FORM></Affiliates_FORM>
+    <Affiliates_FORM_VER></Affiliates_FORM_VER>
+    <Affiliates_VERSION></Affiliates_VERSION>
+    <Affiliates_URL></Affiliates_URL>
+    <Affiliates_Information_Page></Affiliates_Information_Page>
+    <Affiliates_Avangate_Order_Page></Affiliates_Avangate_Order_Page>
+    <Affiliates_Avangate_Vendor_ID></Affiliates_Avangate_Vendor_ID>
+    <Affiliates_Avangate_Product_ID></Affiliates_Avangate_Product_ID>
+    <Affiliates_Avangate_Maximum_Commission_Rate></Affiliates_Avangate_Maximum_Commission_Rate>
+    <Affiliates_BlueSnap_Order_Page></Affiliates_BlueSnap_Order_Page>
+    <Affiliates_BlueSnap_Vendor_ID></Affiliates_BlueSnap_Vendor_ID>
+    <Affiliates_BlueSnap_Product_ID></Affiliates_BlueSnap_Product_ID>
+    <Affiliates_BlueSnap_Maximum_Commission_Rate></Affiliates_BlueSnap_Maximum_Commission_Rate>
+    <Affiliates_BMTMicro_Order_Page></Affiliates_BMTMicro_Order_Page>
+    <Affiliates_BMTMicro_Vendor_ID></Affiliates_BMTMicro_Vendor_ID>
+    <Affiliates_BMTMicro_Product_ID></Affiliates_BMTMicro_Product_ID>
+    <Affiliates_BMTMicro_Maximum_Commission_Rate></Affiliates_BMTMicro_Maximum_Commission_Rate>
+    <Affiliates_eSellerate_Order_Page></Affiliates_eSellerate_Order_Page>
+    <Affiliates_eSellerate_Vendor_ID></Affiliates_eSellerate_Vendor_ID>
+    <Affiliates_eSellerate_Product_ID></Affiliates_eSellerate_Product_ID>
+    <Affiliates_eSellerate_Maximum_Commission_Rate></Affiliates_eSellerate_Maximum_Commission_Rate>
+    <Affiliates_Regnet_Order_Page></Affiliates_Regnet_Order_Page>
+    <Affiliates_Regnet_Vendor_ID></Affiliates_Regnet_Vendor_ID>
+    <Affiliates_Regnet_Product_ID></Affiliates_Regnet_Product_ID>
+    <Affiliates_Regnet_Maximum_Commission_Rate></Affiliates_Regnet_Maximum_Commission_Rate>
+    <Affiliates_Regsoft_Maximum_Commission_Rate></Affiliates_Regsoft_Maximum_Commission_Rate>
+    <Affiliates_ShareIt_Order_Page></Affiliates_ShareIt_Order_Page>
+    <Affiliates_ShareIt_Vendor_ID></Affiliates_ShareIt_Vendor_ID>
+    <Affiliates_ShareIt_Product_ID></Affiliates_ShareIt_Product_ID>
+    <Affiliates_ShareIt_Maximum_Commission_Rate></Affiliates_ShareIt_Maximum_Commission_Rate>
+  </Affiliates>
+  <NewsFeed>
+    <NewsFeed_FORM></NewsFeed_FORM>
+    <NewsFeed_VERSION></NewsFeed_VERSION>
+    <NewsFeed_URL></NewsFeed_URL>
+    <NewsFeed_DESCRIPTION></NewsFeed_DESCRIPTION>
+    <NewsFeed_Feed_URL></NewsFeed_Feed_URL>
+    <NewsFeed_Type></NewsFeed_Type>
+    <NewsFeed_Site_URL></NewsFeed_Site_URL>
+    <NewsFeed_Author_First_Name>1</NewsFeed_Author_First_Name>
+    <NewsFeed_Author_Last_Name>1</NewsFeed_Author_Last_Name>
+    <NewsFeed_Author_Email>sunbound.software@gmail.com</NewsFeed_Author_Email>
+    <NewsFeed_Language></NewsFeed_Language>
+    <NewsFeed_Title></NewsFeed_Title>
+    <NewsFeed_Description_70></NewsFeed_Description_70>
+    <NewsFeed_Description_250></NewsFeed_Description_250>
+    <NewsFeed_Purpose></NewsFeed_Purpose>
+    <NewsFeed_Site_Name></NewsFeed_Site_Name>
+  </NewsFeed>
+  <Press_Release>
+    <Press_Release></Press_Release>
+    <Headline></Headline>
+    <Summary></Summary>
+    <Press_Release_Plain></Press_Release_Plain>
+  </Press_Release>
+  <Site>
+    <Site_FORM></Site_FORM>
+    <Site_VERSION></Site_VERSION>
+    <Site_DESCRIPTION></Site_DESCRIPTION>
+    <Site_Site_Title></Site_Site_Title>
+    <Site_Site_URL></Site_Site_URL>
+    <Site_Keywords></Site_Keywords>
+    <Site_Description_100></Site_Description_100>
+    <Site_Description_250></Site_Description_250>
+    <Site_Description_450></Site_Description_450>
+    <Site_Contact_First_Name></Site_Contact_First_Name>
+    <Site_Contact_Last_Name></Site_Contact_Last_Name>
+    <Site_Contact_Email>sunbound.software@gmail.com</Site_Contact_Email>
+  </Site>
+</XML_DIZ_INFO>
