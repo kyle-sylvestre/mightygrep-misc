@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PAD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:noNamespaceSchemaLocation="http://www.padxml.com/pad/v4_0/pad_schema_v4_0.xsd"
+     version="4.0">
+
+    <Program_Info>
+        <Program_Name>MightyGrep</Program_Name>
+        <Program_Version>0.14.0</Program_Version>
+        <Program_Release_Month>08</Program_Release_Month>
+        <Program_Release_Day>02</Program_Release_Day>
+        <Program_Release_Year>2024</Program_Release_Year>
+        <Program_Cost_Dollars>9.99</Program_Cost_Dollars>
+        <Program_Type>Premium</Program_Type>
+        <Program_Category_Class>Utilities</Program_Category_Class>
+        <Program_Category_Subclass>File Management</Program_Category_Subclass>
+        <Program_OS_Support>Windows, macOS, Linux</Program_OS_Support>
+        <Program_Language>English</Program_Language>
+        <Program_Requirements>None</Program_Requirements>
+        <Program_File_Size_Bytes>1887436</Program_File_Size_Bytes>
+        <Program_File_Size_K>1843</Program_File_Size_K>
+        <Program_File_Size_MB>2</Program_File_Size_MB>
+    </Program_Info>
+
+    <Program_Description>
+        <Description_2000>Fast plaintext search utility</Description_2000>
+        <Description_450>Fast plaintext search utility</Description_450>
+        <Description_250>Fast plaintext search utility</Description_250>
+        <Description_80>Fast plaintext search utility</Description_80>
+    </Program_Description>
+
+    <Publisher_Info>
+        <Company_Name></Company_Name>
+        <Address_1></Address_1>
+        <Address_2></Address_2>
+        <City></City>
+        <State></State>
+        <Zip></Zip>
+        <Country></Country>
+
+        <Support_Email>sunbound.software@gmail.com</Support_Email>
+        <Sales_Email>sunbound.software@gmail.com</Sales_Email>
+        <General_Email>sunbound.software@gmail.com</General_Email>
+
+        <Support_URL>https://ksylvestre.itch.io/mightygrep</Support_URL>
+        <Sales_URL>https://ksylvestre.itch.io/mightygrep</Sales_URL>
+        <General_URL>https://ksylvestre.itch.io/mightygrep</General_URL>
+    </Publisher_Info>
+
+    <Program_Links>
+        <Application_URLs>
+            <Primary_Download_URL>https://ksylvestre.itch.io/mightygrep</Primary_Download_URL>
+            <Secondary_Download_URL></Secondary_Download_URL>
+        </Application_URLs>
+        <PAD_Info_URL></PAD_Info_URL>
+        <Program_Icon_URL>https://raw.githubusercontent.com/kyle-sylvestre/mightygrep-misc/24d948094723c5ae7b6e51a2fafff97cd81d71af/media/mighty_grep_icon.png</Program_Icon_URL>
+        <Screenshot_URLs>
+            <Screenshot_URL>https://raw.githubusercontent.com/kyle-sylvestre/mightygrep-misc/24d948094723c5ae7b6e51a2fafff97cd81d71af/media/screenshot_1.png</Screenshot_URL>
+            <Screenshot_URL>https://raw.githubusercontent.com/kyle-sylvestre/mightygrep-misc/24d948094723c5ae7b6e51a2fafff97cd81d71af/media/screenshot_2.png</Screenshot_URL>
+            <Screenshot_URL>https://raw.githubusercontent.com/kyle-sylvestre/mightygrep-misc/24d948094723c5ae7b6e51a2fafff97cd81d71af/media/screenshot_3.gif</Screenshot_URL>
+        </Screenshot_URLs>
+    </Program_Links>
+
+    <Permissions>
+        <Distribution_Permissions>Free to distribute demo</Distribution_Permissions>
+        <EULA></EULA>
+    </Permissions>
+
+</PAD>
