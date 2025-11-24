@@ -83,9 +83,9 @@
     <Application_URLs>
       <Application_Info_URL>https://ksylvestre.itch.io</Application_Info_URL>
       <Application_Order_URL></Application_Order_URL>
-      <Application_Screenshot_URL>https://raw.githubusercontent.com/kyle-sylvestre/mightygrep-misc/24d948094723c5ae7b6e51a2fafff97cd81d71af/media/screenshot_1.png</Application_Screenshot_URL>
-      <Application_Icon_URL>https://raw.githubusercontent.com/kyle-sylvestre/mightygrep-misc/24d948094723c5ae7b6e51a2fafff97cd81d71af/media/mighty_grep_icon.png</Application_Icon_URL>
-      <Application_XML_File_URL>https://raw.githubusercontent.com/kyle-sylvestre/mightygrep-misc/refs/heads/main/media/mightygrep.xml</Application_XML_File_URL>
+      <Application_Screenshot_URL>https://raw.githack.com/kyle-sylvestre/mightygrep-misc/24d948094723c5ae7b6e51a2fafff97cd81d71af/media/screenshot_1.png</Application_Screenshot_URL>
+      <Application_Icon_URL>https://raw.githack.com/kyle-sylvestre/mightygrep-misc/24d948094723c5ae7b6e51a2fafff97cd81d71af/media/mighty_grep_icon.png</Application_Icon_URL>
+      <Application_XML_File_URL>https://raw.githack.com/kyle-sylvestre/mightygrep-misc/refs/heads/main/media/mightygrep.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
       <Primary_Download_URL>https://ksylvestre.itch.io/mightygrep</Primary_Download_URL>
